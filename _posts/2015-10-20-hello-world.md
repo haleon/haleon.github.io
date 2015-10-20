@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Leon Ha, Website Builder, Launches Site"
+date: 2015-10-20
 ---
 
-Well. Finally got around to putting this old website together.
-Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and 
-I can use Markdown to author my posts. It actually is a lot 
-easier than I thought it was going to be.
+This is a cheese flavored blog powered by Jekyll (http://jekyllrb.com) and hosted through GitHub Pages.
+
+To share and document the process I’ve created a comprehensive how-to on launching static websites with Jekyll and GitHub Pages. The documentation also serves as a simple introduction to Git and GitHub which I found to be more than a little confusing at first (It’s actually quite straight forward once you get the hang of it!). Links to this and other things I’m obsessed with on are on my website, http://haleon.github.io./
