@@ -1,2 +1,3 @@
 	name: Leon Ha, website builder
 	markdown: kramdown
+	permalink: /blog/:year/:month/:day/:title
